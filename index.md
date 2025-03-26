@@ -15,3 +15,8 @@
     <source src="sunsations-april-2025.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
+
+`audio https://schh-commons.org/podcasts/sunsations-april-2025.mp3 #ss202504 "SunSations April 2025 Podcast" large center`
+
+Segments
+- ["*Hooray for Hollywood*"](ss202504/play/9:13)

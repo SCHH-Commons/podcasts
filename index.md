@@ -1,4 +1,4 @@
-# SunSations
+# SunSations Podcasts[^1]
 
 ## March 2025
 
@@ -21,4 +21,4 @@ Segments
 - [Spring Spruce Up](ss202504/play/11:58/12:52/)
 - [Writers Workshop](ss202504/play/12:53/13:10/)
 
-> AI-generated podcasts for the SunSations Magazine
+[^1]: Podcasts are AI-generated using Google NotebookLM

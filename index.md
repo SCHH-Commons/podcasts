@@ -10,7 +10,7 @@
 
 ### April 2025
 
-`audio #ss202504 https://schh-commons.org/podcasts/sunsations-april-2025.mp3 "SunSations April 2025 Podcast" medium
+`audio #ss202504 https://schh-commons.org/podcasts/sunsations-april-2025.mp3 "SunSations April 2025 Podcast" medium`
 
 Segments
 - ["*Hooray for Hollywood*"](ss202504/play/9:13)

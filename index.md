@@ -2,11 +2,11 @@
 
 ## March 2025
 
-`audio #ss202503 https://schh-commons.org/podcasts/SunSations_March_2025 medium`
+`audio #ss202503 https://schh-commons.org/podcasts/SunSations_March_2025.mp3 medium`
 
 ## April 2025
 
-`audio #ss202504 https://schh-commons.org/podcasts/SunSations_April_2025 medium`
+`audio #ss202504 https://schh-commons.org/podcasts/SunSations_April_2025.mp3 medium`
 
 Segments
 - [Appreciating Biodiversity](ss202504/play/39/2:10/)
